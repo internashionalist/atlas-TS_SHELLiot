@@ -130,7 +130,7 @@ distributed systems, and emerging technologies.
 - **Clay Sexton**  
   [GitHub](https://github.com/seer9)  
   [LinkedIn](https://www.linkedin.com/in/seer9)  
-  [Email]
+  [Email](clay.sexton@atlasschool.com)
 
 ## License
 
