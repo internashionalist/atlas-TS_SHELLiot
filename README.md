@@ -123,13 +123,13 @@ distributed systems, and emerging technologies.
 
 ## Authors
 
-- **Nash Thames**
-  [GitHub](https://github.com/internashionalist)
-  [LinkedIn](https://www.linkedin.com/in/nashthames/)
+- **Nash Thames**  
+  [GitHub](https://github.com/internashionalist)  
+  [LinkedIn](https://www.linkedin.com/in/nashthames)  
   [Email](taylor.thames@atlasschool.com)
-- **Clay Sexton**
-  [GitHub](https://github.com/seer9)
-  [LinkedIn](https://www.linkedin.com/in/seer9)
+- **Clay Sexton**  
+  [GitHub](https://github.com/seer9)  
+  [LinkedIn](https://www.linkedin.com/in/seer9)  
   [Email]
 
 ## License
