@@ -42,5 +42,5 @@ int execute(char **tokens)
 		} while (!WIFEXITED(status) && !WIFSIGNALED(status)); /* until exited */
 	}
 	free(executable); /* free executable */
-	return (WIFEXITED(status) ? WEXITSTATUS(status) : -1); /* get exit status or -1 */
+	return (WIFEXITED(status) ? WEXITSTATUS(status) : -1); /* exit or -1 */
 }

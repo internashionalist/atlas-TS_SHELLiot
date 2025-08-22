@@ -1,3 +1,5 @@
+![Script](https://github.com/internashionalist/atlas-TS_SHELLiot/blob/main/simple_shell_script2.jpg)
+
 # T.S. SHELLiot - Is it Code... or Poetry?
 
 >*"If you aren't in over your head, how do you know how tall you are?"*<br>
@@ -25,11 +27,11 @@ T.S. SHELLiot implements a simple command-line shell that mimics basic Unix shel
 
 **Clone into T.S. SHELLiot's Repository:**
 ```
-git clone https://github.com/seer9/atlas-simple_shell.git
+git clone https://github.com/internashionalist/atlas-TS_SHELLiot.git
 ```
 **Open the Shell Directory:**
 ```
-cd atlas-simple_shell
+cd atlas-TS_SHELLiot
 ```
 **Compile Contents:**
 ```
@@ -94,10 +96,9 @@ Not with a bang but a whimper.
 
 ## Flowchart
 
-![FlowChart](https://github.com/seer9/atlas-simple_shell/blob/main/flowchart.jpg)
+![FlowChart](https://github.com/internashionalist/atlas-TS_SHELLiot/blob/main/flowchart.jpg)
 
 ## Authors
 
-[@internashionalist](https://github.com/internashionalist/internashionalist/blob/main/README.md)
-
-[@seer9]()
+Nash Thames [internashionalist](https://github.com/internashionalist)<br>
+Clay Sexton [seer9](https://github.com/seer9)

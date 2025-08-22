@@ -5,7 +5,7 @@ Thames-Sexton Shell (T.S. SHELLiot) \- a Unix shell implementation in C
 
 
 .SH DESCRIPTION
-The \fBT.S. SHELLiot\fP is a custom Unix shell that brings the essential features of a complete Unix shell into a streamlined, user-friendly interface. Upon launch, the shell provides a prompt for users to enter their commands, which can include various arguments.It efficiently reads and processes the commands, handles built-in functions, splits input into tokens, and then utilizes the PATH environment variable to locate executables, all while seamlessly handling any errors encountered. 
+The \fBT.S. SHELLiot\fP is a custom Unix shell that brings the essential features of a complete Unix shell into a streamlined, user-friendly interface. Upon launch, the shell provides a prompt for users to enter their commands, which can include various arguments.It efficiently reads and processes the commands, handles built-in functions, splits input into tokens, and then utilizes the PATH environment variable to locate executables, all while seamlessly handling any errors encountered.
 
 .SH LIBRARIES
 <stdio.h>
@@ -39,7 +39,7 @@ The \fBT.S. SHELLiot\fP is a custom Unix shell that brings the essential feature
 This command prints the highly relevant quote from T.S. Eliot.
 
 .SH SEE ALSO
-sh(1), bash(1), isatty(3), getline(3), malloc(3), free(3), strdup(3), strtok(3), fork(2), execve(2), waitpid(2), access(2), 
+sh(1), bash(1), isatty(3), getline(3), malloc(3), free(3), strdup(3), strtok(3), fork(2), execve(2), waitpid(2), access(2),
 
 .SH AUTHORS
 Nash Thames <taylor.thames@atlasschool.com>
